@@ -1,4 +1,4 @@
-// The Decorator Pattern
+//  The Decorator Pattern
 
 // The constructor to decorate
 class AndroidPhone {
