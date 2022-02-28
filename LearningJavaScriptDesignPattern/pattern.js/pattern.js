@@ -4,7 +4,7 @@
 class AndroidPhone {
     constructor() {
         this.cost = 997;
-        this.screenSize = 6;
+        this.screenSize = 5.5;
     }
     getCost() {
         return this.cost;
